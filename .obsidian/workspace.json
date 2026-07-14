@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Constitution/Governance/Governance Changelog.md",
+                "file": "Antifragile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Governance Changelog"
+              "title": "Antifragile"
             }
           },
           {
@@ -264,10 +264,10 @@
   },
   "active": "6bc8f4112457e692",
   "lastOpenFiles": [
+    "0. Constitution/Governance/Governance Changelog.md",
     "metasystem",
     "0. Constitution/Governance/Governance Grammer.md",
     "0. Constitution/Governance/Governance States.md",
-    "0. Constitution/Governance/Governance Changelog.md",
     "0. Constitution/!!Metadata Schema.md",
     "0. Constitution/!!!Knowledge Grammar.md",
     "0. Constitution/!!!!Relationship Grammer.md",
