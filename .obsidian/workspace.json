@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "6374fe7b9f250caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d641336c0dc85679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4481f0e919875cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/!!!!!Ontological Grammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!!!!!Ontological Grammer"
+            }
+          },
+          {
+            "id": "6bc8f4112457e692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/Governance/Governance Changelog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Governance Changelog"
+            }
+          },
+          {
+            "id": "a1d6e893a18cd4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/!!!Knowledge Grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!!!Knowledge Grammar"
+            }
+          },
+          {
+            "id": "0b45495509c8516d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/!!!!Relationship Grammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!!!!Relationship Grammer"
+            }
+          },
+          {
+            "id": "5959f8a324844ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/!!Metadata Schema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!!Metadata Schema"
+            }
+          },
+          {
+            "id": "32ab505a74898e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Constitution/!Structural rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!Structural rules"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67e1a2100d4c5a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d40d172db2305c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b684dc0051c2da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforskare"
+            }
+          },
+          {
+            "id": "561a73a18a1cb153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Sök"
+            }
+          },
+          {
+            "id": "a62d3181b4916c68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bokmärken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e34fd6e921f225b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0abf6d4b104d42e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588526d23b308038",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Bakåtlänkar"
+            }
+          },
+          {
+            "id": "371b0d1d218c3ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Utgående länkar"
+            }
+          },
+          {
+            "id": "e8405668cd3c31af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Taggar"
+            }
+          },
+          {
+            "id": "f80904549e08bb50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alla egenskaper"
+            }
+          },
+          {
+            "id": "9a79d97ffe002ff7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposition"
+            }
+          },
+          {
+            "id": "18408f58e0aba402",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6bc8f4112457e692",
+  "lastOpenFiles": [
+    "metasystem",
+    "0. Constitution/Governance/Governance Grammer.md",
+    "0. Constitution/Governance/Governance States.md",
+    "0. Constitution/Governance/Governance Changelog.md",
+    "0. Constitution/!!Metadata Schema.md",
+    "0. Constitution/!!!Knowledge Grammar.md",
+    "0. Constitution/!!!!Relationship Grammer.md",
+    "0. Constitution/!!!!!Ontological Grammer.md",
+    "0. Constitution/!!!!!!Meta Layer.md",
+    "0. Constitution/Governance",
+    "0. Constitution/!Structural rules.md",
+    "0. Constitution/Constitution.md",
+    "Types fundamental question.md",
+    "Resilient.md",
+    "Viability.md",
+    "Note Layers.md",
+    "Orientation.md",
+    "Pasted image 20260711192013.png",
+    "2. Knowledge Graph/Adaptive Requirements.md",
+    "CA causal placement.md",
+    "Implementations of Adaptive Operation.md",
+    "Conscious Autogenesis (CA).md",
+    "Full note lifecycle.md",
+    "Process.md",
+    "Layers correct models common failures.md",
+    "Antifragile.md",
+    "Missmatch.md",
+    "Prediction.md",
+    "5. Evolution",
+    "4. Projects",
+    "3. Experiments",
+    "2. Knowledge Graph",
+    "0. Constitution"
+  ]
+}
