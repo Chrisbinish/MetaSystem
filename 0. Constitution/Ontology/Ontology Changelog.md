@@ -1,0 +1,16 @@
+V.1:
+Reality
+ ↓
+Agent
+ ↓
+Requirement
+ ↓
+Problem
+ ↓
+Operation
+ ↓
+Process
+ ↓
+Mechanism
+ ↓
+Implementation

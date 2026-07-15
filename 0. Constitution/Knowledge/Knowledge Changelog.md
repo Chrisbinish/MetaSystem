@@ -1,22 +1,3 @@
-Representation
-└── Description
-
-Understanding
-├── Explanation
-├── Function
-└── Prediction
-
-Intervention
-└── Prescription
-
-
-
-
-
-
-
-
-
 V.1: 
 ├── Representation
 │   └── Description
