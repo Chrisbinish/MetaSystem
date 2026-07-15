@@ -1,3 +1,5 @@
-1. git add .
-2. git commit -m "changed something" 
-3. git push 
+1. cd .. (until reaching: C:\> (lowest level)) 
+2. cd 
+3. git add .
+4. git commit -m "changed something" 
+5. git push 
